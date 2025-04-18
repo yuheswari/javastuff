@@ -21,8 +21,10 @@ public class operators {
     //unary operator
     int h=5;
     
-    System.out.println(--h);  //post increment   //prefix ++a
-    System.out.println(h);
+    System.out.println(h++);  //post increment   //prefix ++a
+    //System.out.println(h);
+    System.out.println(h++);  //post increment   //prefix ++a
+
 
 
 
